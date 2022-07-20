@@ -1,7 +1,6 @@
 body {
   text-align: center;
   color: rgb(9, 9, 9);
-  font-family: Arial, Helvetica, sans-serif;
   font-size: 12px;
   margin: 0%;
   padding: 0%;
@@ -10,4 +9,17 @@ body {
   width: 70%;
   border: 2px solid rgb(0, 0, 0);
   margin: 20px auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.prueba {
+  padding-bottom: 10px;
+}
+.pruebaboton {
+  color: white;
+  text-align: center;
+  background-color: rgb(111, 121, 255);
+  border: none;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  width: 60px;
+  height: 25px;
 }
