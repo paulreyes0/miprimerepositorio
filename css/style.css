@@ -1,9 +1,9 @@
 body {
   text-align: center;
   color: rgb(9, 9, 9);
-  font-size: 12px;
-  margin: 0%;
-  padding: 0%;
+
+  margin: 0;
+  padding: 0;
 }
 #container {
   width: 50%;
@@ -11,16 +11,36 @@ body {
   border: 2px solid rgb(0, 0, 0);
   margin: 20px auto;
   font-family: Arial, Helvetica, sans-serif;
+
+}
+.cabecera {
+  background-color: brown;
+  color: white;
+  font-size:1.7em;
+  padding: 0.35em;
+  text-align: center;
+  justify-content: center;
+}
+.madkat {
+  vertical-align: middle;
+  width: 2.0em;
+  margin: 0;
+  padding: 0;
 }
 .prueba {
   padding-bottom: 10px;
+}
+p {
+  margin-top: 10px;
+  font-size: 1.2em;
+  font-weight: lighter;
 }
 .pruebaboton {
   color: white;
   font-size: 1.7em;
   text-align: center;
   justify-items: center;
-  background-color: rgb(72, 216, 248);
+  background-color: rgb(179, 0, 255);
   border: none;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   height: 29px;
@@ -30,5 +50,4 @@ body {
 	font-size: 2em;
 	color: white;
 	height:20px;
-
 }
