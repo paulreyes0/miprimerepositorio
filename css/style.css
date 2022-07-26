@@ -46,6 +46,7 @@ p {
 .footer {
 	background: rgb(112, 214, 255);
 	font-size: 1em;
-	color: black;
+	color: #ffff;
+  font-weight: 900;
 	height:30px;
 }
